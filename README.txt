@@ -1,92 +1,92 @@
 # 🧬 Bioinformatics Learning Studio
 
-An **offline-first, interactive learning platform** for bioinformatics, built from structured Q&A datasets and enhanced with real-time research discovery.
+<p align="center">
+  <img src="screenshot.png" width="92%" />
+</p>
+
+An **offline-first, interactive learning platform** for bioinformatics that transforms curated Q&A datasets into a modern, research-integrated learning experience.
 
 **Developed and data curated by Dr. Yash M Gupta**
 
-🔗 Live App: https://yashmgupta.github.io/bioinformatics-learning-studio/
-<p align="center">
-  <img src="screenshot.png" width="90%" />
-</p>
+🔗 **Live App:** https://yashmgupta.github.io/bioinformatics-learning-studio/
+
 ---
 
 ## 🚀 Overview
 
-Bioinformatics Learning Studio transforms curated QA datasets into a **modern, intuitive learning environment** with:
+**Bioinformatics Learning Studio** converts structured QA datasets into a **powerful, intuitive learning system** combining:
 
-* Flashcards
-* Quiz-based learning
-* Topic filtering & search
-* Progress tracking
-* Research paper exploration (via OpenAlex API)
+* Active recall (quiz-based learning)
+* Concept reinforcement (flashcards)
+* Topic-wise exploration
+* Integrated research discovery
 
-Designed for **students, researchers, and educators**, the app works seamlessly **offline** while offering optional online research capabilities.
+Designed for **students, researchers, and educators**, the platform works seamlessly **offline**, while offering optional **real-time access to scientific literature**.
 
 ---
 
-## ✨ Key Features
+## ✨ Core Features
 
 ### 📚 Learning Modes
 
-* **Flashcard Mode** – Concept reinforcement
-* **Quiz Mode** – Active recall & testing
-* **Review Mode** – Focus on weak/unknown topics
+* **Flashcard Mode** — Reinforce core concepts
+* **Quiz Mode** — Test understanding through active recall
+* **Review Mode** — Focus on weak or unmastered topics
 
-### 🧠 Smart Learning
+### 🧠 Intelligent Learning System
 
-* Topic-based filtering (Genomics, Proteomics, etc.)
-* Search across questions, answers, explanations
-* “Mark Known” for mastery tracking
-* Local progress tracking (no login required)
+* Topic-based filtering (Genomics, Proteomics, Metabolomics, etc.)
+* Full-text search across questions, answers, and explanations
+* **“Mark Known”** system for mastery tracking
+* Persistent progress using local storage (no login required)
 
 ### 🌐 Research Integration
 
-* Search real research papers using **OpenAlex API**
-* View:
+* Explore real research papers via **OpenAlex API**
+* Access:
 
-  * Paper titles
-  * Authors
-  * Citations
-  * Abstracts
+  * Titles, authors, citations
+  * Abstracts and metadata
 * Direct links to:
 
-  * Full papers
-  * PDFs
+  * Full-text articles
+  * PDFs (when available)
   * DOI pages
 
-### 📊 Progress & Analytics
+### 📊 Progress Tracking
 
 * Total questions
 * Seen questions
-* Known (mastered) questions
-* Quiz score tracking
+* Mastered (known) questions
+* Quiz performance score
+* Visual progress indicators
 
-### 📦 Offline-First Design
+### 📦 Offline-First Architecture
 
-* Works fully offline after first load
-* No backend required
-* Data stored locally in browser
+* Fully functional without internet (after first load)
+* No backend or server required
+* All data stored locally in browser
 
-### 📁 Export & Reset
+### 📁 Data Control
 
 * Export learning progress as JSON
 * Reset session anytime
 
 ---
 
-## 📱 Install as App (PWA)
+## 📱 Install as Mobile App (PWA)
 
-You can install this like a mobile app:
+This app can be installed like a native application.
 
-### On Mobile (Android)
+### 📲 On Mobile (Android)
 
 1. Open the app in Chrome
 2. Tap menu → **Add to Home Screen**
 
-### On Desktop (Chrome/Edge)
+### 💻 On Desktop (Chrome / Edge)
 
 1. Open the app
-2. Click **Install App** icon in address bar
+2. Click **Install App** icon in the address bar
 
 ---
 
@@ -95,35 +95,35 @@ You can install this like a mobile app:
 * HTML5, CSS3, Vanilla JavaScript
 * Progressive Web App (PWA)
 * Service Workers (offline caching)
-* OpenAlex API (research papers)
-* LocalStorage (progress tracking)
+* OpenAlex API (research integration)
+* LocalStorage (progress persistence)
 
 ---
 
-## 🌍 Use Cases
+## 🌍 Applications
 
 * Bioinformatics exam preparation
-* Research concept revision
-* Teaching aid for instructors
-* Dataset-driven learning tools
-* Offline education environments
+* Concept revision for research scholars
+* Teaching and academic demonstrations
+* Dataset-driven learning environments
+* Offline-first education systems
 
 ---
 
 ## ⚠️ Notes
 
-* Research paper search requires internet
-* QA learning works fully offline
-* No user data is collected or stored externally
+* 🔌 Research paper search requires internet connection
+* 📚 QA learning works completely offline
+* 🔒 No user data is collected or stored externally
 
 ---
 
-## 🔮 Future Enhancements
+## 🔮 Future Directions
 
-* Spaced repetition system
-* AI-based question generation
+* Spaced repetition learning system
+* AI-assisted question generation
 * Advanced analytics dashboard
-* Dark mode
+* Dark mode UI
 * Multi-dataset support
 
 ---
@@ -131,7 +131,7 @@ You can install this like a mobile app:
 ## 📜 License
 
 This project is intended for **educational and research use**.
-For reuse or collaboration, please contact the author.
+For collaboration, extension, or reuse, please contact the author.
 
 ---
 
@@ -142,4 +142,4 @@ Bioinformatics | Computational Biology | Research & Development
 
 ---
 
-If you use this tool in your research or teaching, please consider citing or acknowledging the author.
+> If you use this tool in teaching, research, or academic work, please consider citing or acknowledging the author.
