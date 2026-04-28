@@ -1,0 +1,25 @@
+{
+  "name": "Bioinformatics Learning Studio",
+  "short_name": "BioInfo Studio",
+  "description": "Offline-first bioinformatics QA learning app developed and data curated by Dr. Yash M Gupta.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf0f6",
+  "theme_color": "#3aa7ee",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
